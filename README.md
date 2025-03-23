@@ -1,3 +1,8 @@
+![GitHub Contribution](https://camo.githubusercontent.com/a01587bc5744d511c092d11defd0a878c9cf401ff1f39f345167c857279ba7ac/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d316531653165266865696768743d3132302673656374696f6e3d686561646572)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Big+Shoulders&weight=700&size=22&duration=2050&pause=1000&color=525252&width=435&separator=%3C&lines=Bem+vindo(a)+ao+meu+perfil+XD%3CMe+chamo+Picolo+%3AP%3CSeja+l%C3%A1+o+que+voc%C3%AA+est%C3%A1+fazendo+aqui%2C+se+divirta!+;D)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/joaopedropicolo">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedropicolo&layout=compact&langs_count=7&theme=radical"/>
