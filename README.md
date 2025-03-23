@@ -4,6 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Big+Shoulders&weight=700&size=22&duration=2050&pause=1000&color=525252&width=435&separator=%3C&lines=Bem+vindo(a)+ao+meu+perfil+XD%3CMe+chamo+Picolo+%3AP%3CSeja+l%C3%A1+o+que+voc%C3%AA+est%C3%A1+fazendo+aqui%2C+se+divirta!+;D)](https://git.io/typing-svg)
 
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
+</div>
+
+
+<div align="center">
   <a href="https://github.com/joaopedropicolo">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedropicolo&layout=compact&langs_count=7&theme=radical"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedropicolo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -18,17 +23,24 @@
   <img src="https://github.com/user-attachments/assets/143cd8d7-13e7-4345-a81d-b4f1c35fd140" width="400" height="400">
 </div>
 
----
-
-# 🚀 Tecnologias que estou aprendendo
-<div align="center">
-  <img loading="lazy" src="https://github.com/user-attachments/assets/e3515c52-1e2d-4ffd-a70b-c682c5201338" width="73" height="73"/>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/bdf5107b-7b80-4019-9e8b-c24d7ff5e175" width="73" height="73"/>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/ab4fa726-046d-4d71-9120-afef56fa45c0" width="73" height="73"/>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/f3a579cd-04be-42d0-9b21-efe4cf6a2aa5" width="73" height="73"/>
+---<div align="center">
+  <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
 </div>
 
----
+#  🚀 Tecnologias que estou aprendendo
+<div align="center">
+  <img loading="lazy" src="https://github.com/user-attachments/assets/3df7e7b4-6dfa-4197-b4ab-4a1a46b356bd" width="73" height="73"/>
+  <img loading="lazy" src="https://github.com/user-attachments/assets/318a1f50-d722-443d-9b2a-792c582c8406" width="73" height="73"/>
+  <img loading="lazy" src="https://github.com/user-attachments/assets/335b5d49-e515-4689-b316-9ca33808149b" width="73" height="73"/>
+  <img loading="lazy" src="https://github.com/user-attachments/assets/953e134b-4918-4005-8f66-78a6bc382795" width="73" height="73"/>
+  <img loading="lazy" src="https://github.com/user-attachments/assets/f68aa14b-b805-4f94-9e16-6a2f8b59f638" width="73" height="73"/>
+  <img loading="lazy" src="https://github.com/user-attachments/assets/5a640400-2784-47ac-bcd6-45fea79f1c43" width="73" height="73"/>
+  <img loading="lazy" src="https://github.com/user-attachments/assets/88ffcd4a-020f-4af3-bfab-1711b3877824" width="73" height="73"/>
+</div>
+
+---<div align="center">
+  <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
+</div>
 
 # 🤖 Autor do DOA-BOT
 <div align="center">
@@ -39,10 +51,16 @@
 
 O **DOA-BOT** foi desenvolvido por **João Pedro Picolo e Tiago Pires**, sob orientação do professor **Fábio Duarte**. O projeto tem como objetivo incentivar a doação de sangue no estado de **Mato Grosso do Sul** e foi apresentado nas feiras **FeciNova** e **FETECMS**, conquistando **1° lugar a nível municipal** e **3° lugar a nível estadual**.
 
----
+---<div align="center">
+  <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
+</div>
 
 <div align="center">
   <img loading="lazy" src="https://github.com/user-attachments/assets/45681b3c-ffc6-4016-9837-8ea6622e321d" width="600" height="600"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/696cfdee-a0ff-425c-93a1-c4979bcece45"/>
 </div>
 
 ---
