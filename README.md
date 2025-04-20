@@ -15,7 +15,6 @@
   </a>
 </div>
 
----
 
 # 📖 Instituto Federal do Mato Grosso do Sul  
 ## 🖥️ Técnico em Informática - 5/6
@@ -26,6 +25,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
 </div>
+
+<br></br>
 
 ## 🚀 Tecnologias que estou aprendendo:
 
@@ -54,6 +55,8 @@
   <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
 </div>
 
+<br></br>
+
 ## 🖥️ Sistemas Operacionais que já tive experiências:
 
 <table align="center">
@@ -70,6 +73,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
 </div>
+
+<br></br>
 
 ## 🛠️ Ferramentas que já tive experiências:
 
@@ -89,8 +94,9 @@
   </tr>
 </table>
 
+<br></br>
 
----<div align="center">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
 </div>
 
@@ -103,7 +109,15 @@
 
 O **DOA-BOT** foi desenvolvido por **João Pedro Picolo e Tiago Pires**, sob orientação do professor **Fábio Duarte**. O projeto tem como objetivo incentivar a doação de sangue no estado de **Mato Grosso do Sul** e foi apresentado nas feiras **FeciNova** e **FETECMS**, conquistando **1° lugar a nível municipal** e **3° lugar a nível estadual**.
 
----<div align="center">
+<br></br>
+
+## 📞 Contatos
+<div align="center">
+  <a href="https://steamcommunity.com/id/bigwon" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href = "mailto:bigwon132@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
   <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
 </div>
 
