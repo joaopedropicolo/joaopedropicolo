@@ -23,20 +23,68 @@
   <img src="https://github.com/user-attachments/assets/143cd8d7-13e7-4345-a81d-b4f1c35fd140" width="400" height="400">
 </div>
 
----<div align="center">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
 </div>
 
-#  🚀 Tecnologias que estou aprendendo
+## 🚀 Tecnologias que estou aprendendo
+
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3df7e7b4-6dfa-4197-b4ab-4a1a46b356bd" width="73" height="73"/></td>
+    <td><img src="https://github.com/user-attachments/assets/318a1f50-d722-443d-9b2a-792c582c8406" width="73" height="73"/></td>
+    <td><img src="https://github.com/user-attachments/assets/335b5d49-e515-4689-b316-9ca33808149b" width="73" height="73"/></td>
+    <td><img src="https://github.com/user-attachments/assets/953e134b-4918-4005-8f66-78a6bc382795" width="73" height="73"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f68aa14b-b805-4f94-9e16-6a2f8b59f638" width="73" height="73"/></td>
+    <td><img src="https://github.com/user-attachments/assets/5a640400-2784-47ac-bcd6-45fea79f1c43" width="73" height="73"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/88ffcd4a-020f-4af3-bfab-1711b3877824" width="73" height="73"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="73" height="73"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="73" height="73"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="73" height="73"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="73" height="73"/></td>
+  </tr>
+</table>
+
 <div align="center">
-  <img loading="lazy" src="https://github.com/user-attachments/assets/3df7e7b4-6dfa-4197-b4ab-4a1a46b356bd" width="73" height="73"/>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/318a1f50-d722-443d-9b2a-792c582c8406" width="73" height="73"/>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/335b5d49-e515-4689-b316-9ca33808149b" width="73" height="73"/>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/953e134b-4918-4005-8f66-78a6bc382795" width="73" height="73"/>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/f68aa14b-b805-4f94-9e16-6a2f8b59f638" width="73" height="73"/>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/5a640400-2784-47ac-bcd6-45fea79f1c43" width="73" height="73"/>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/88ffcd4a-020f-4af3-bfab-1711b3877824" width="73" height="73"/>
+  <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
 </div>
+
+## 🖥️ Sistemas Operacionais que já tive experiências
+
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="78" height="78"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="78" height="78"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="78" height="78"/></td>
+    <td><img src="https://github.com/user-attachments/assets/696a2333-270f-47bb-b751-a0de29a13a47" width="78" height="78"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="78" height="78"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" width="78" height="78"/></td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
+</div>
+
+## 🛠️ Ferramentas que já tive experiências
+
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="78" height="78"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opera/opera-original.svg" width="78" height="78"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="78" height="78"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="78" height="78"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" width="78" height="78"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="78" height="78"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="78" height="78"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="78" height="78"/></td>
+  </tr>
+</table>
+
 
 ---<div align="center">
   <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
@@ -61,11 +109,4 @@ O **DOA-BOT** foi desenvolvido por **João Pedro Picolo e Tiago Pires**, sob ori
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/696cfdee-a0ff-425c-93a1-c4979bcece45"/>
-</div>
-
----
-
-# 🐍 Snake Animation
-<div align="center">
-  <img src="https://raw.githubusercontent.com/joaopedropicolo/joaopedropicolo/output/github-contribution-grid-snake.svg"/>
 </div>
