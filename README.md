@@ -27,7 +27,7 @@
   <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
 </div>
 
-## 🚀 Tecnologias que estou aprendendo
+## 🚀 Tecnologias que estou aprendendo:
 
 <table align="center">
   <tr>
@@ -37,6 +37,7 @@
     <td><img src="https://github.com/user-attachments/assets/953e134b-4918-4005-8f66-78a6bc382795" width="73" height="73"/></td>
     <td><img src="https://github.com/user-attachments/assets/f68aa14b-b805-4f94-9e16-6a2f8b59f638" width="73" height="73"/></td>
     <td><img src="https://github.com/user-attachments/assets/5a640400-2784-47ac-bcd6-45fea79f1c43" width="73" height="73"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="73" height="73"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/88ffcd4a-020f-4af3-bfab-1711b3877824" width="73" height="73"/></td>
@@ -44,6 +45,8 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="73" height="73"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="73" height="73"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="73" height="73"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="73" height="73"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" width="73" height="73"/></td>
   </tr>
 </table>
 
@@ -51,7 +54,7 @@
   <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
 </div>
 
-## 🖥️ Sistemas Operacionais que já tive experiências
+## 🖥️ Sistemas Operacionais que já tive experiências:
 
 <table align="center">
   <tr>
@@ -68,7 +71,7 @@
   <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
 </div>
 
-## 🛠️ Ferramentas que já tive experiências
+## 🛠️ Ferramentas que já tive experiências:
 
 <table align="center">
   <tr>
@@ -82,6 +85,7 @@
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="78" height="78"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="78" height="78"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" width="78" height="78"/></td>
   </tr>
 </table>
 
