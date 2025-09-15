@@ -111,6 +111,15 @@ O **DOA-BOT** foi desenvolvido por **João Pedro Picolo e Tiago Pires**, sob ori
 
 <br></br>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cdcf0f6c-b901-43e9-84a2-fcfdb7123056"/>
+</div>
+
+# 🛡️Aprendendo sobre Cybersegurança
+<div align="center">
+  <img width="300" height="300" alt="8522214" src="https://github.com/user-attachments/assets/f59bc2b2-25c2-4504-9b44-fd10c34c9f7f" />
+</div>
+
 ## 📞 Contatos
 <div align="center">
   <a href="https://steamcommunity.com/id/bigwon" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
