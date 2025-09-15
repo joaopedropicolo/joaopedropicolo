@@ -17,7 +17,7 @@
 
 
 # 📖 Instituto Federal do Mato Grosso do Sul  
-## 🖥️ Técnico em Informática - 5/6
+## 🖥️ Técnico em Informática - 6/6
 <div align="center">
   <img src="https://github.com/user-attachments/assets/143cd8d7-13e7-4345-a81d-b4f1c35fd140" width="400" height="400">
 </div>
